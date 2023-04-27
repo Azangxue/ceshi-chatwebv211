@@ -1,1 +1,1 @@
-FROM azangxue/chatgpt-web
+FROM azangxue/chatgpt-web:v2.11.0
